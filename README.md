@@ -1,1 +1,1 @@
-# c3highfoldfermions-tbmodels
+# c3highfoldfermions_tbmodels
