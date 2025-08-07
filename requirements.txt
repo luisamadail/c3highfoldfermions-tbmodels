@@ -1,0 +1,20 @@
+# Numerical array operations
+numpy>=1.22
+
+# Linear algebra routines
+scipy>=1.8
+
+# Symbolic algebra (for analytical work, simplifications)
+sympy>=1.10
+
+# Plotting (2D and 3D)
+matplotlib>=3.5
+
+# Display utilities in Jupyter (for formatted output)
+ipython>=7.0
+
+# Running in Jupyter notebooks
+notebook
+
+# Parallel computing (used with Parallel, delayed)
+joblib>=1.0
